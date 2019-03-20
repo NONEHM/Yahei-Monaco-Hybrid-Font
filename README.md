@@ -53,3 +53,5 @@ v1.1
     ![Sublime Text 3 中 16 号字体预览](./screenshot/16.png)
 
     ---
+    
+    `// 网上找了一圈, 还是在github上收方便,直接下载 谢了老哥~`
